@@ -1,0 +1,123 @@
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\bin\Debug\IndividualAssignment.exe.config
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\bin\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\bin\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\bin\Debug\EntityFramework.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\bin\Debug\EntityFramework.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.csprojAssemblyReference.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CoreCompileInputs.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CopyComplete
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._1.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.GenerateResource.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._2.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._3.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\bin\Debug\IndividualAssignment.exe.config
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\bin\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\bin\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\bin\Debug\EntityFramework.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\bin\Debug\EntityFramework.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.csprojAssemblyReference.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CoreCompileInputs.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CopyComplete
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._1.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.GenerateResource.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._2.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._3.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._4trainerspassword.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.headmaster.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.headmasteraddfirstname.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.beforeAssignmentSubmissionLIst.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - Copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.AfterAssignmentSubmit.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\bin\Debug\IndividualAssignment.exe.config
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\bin\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\bin\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\bin\Debug\EntityFramework.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\bin\Debug\EntityFramework.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\obj\Debug\IndividualAssignment.csprojAssemblyReference.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CoreCompileInputs.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CopyComplete
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\obj\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\obj\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.database4.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.GenerateResource.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V2\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._2.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\bin\Debug\IndividualAssignment.exe.config
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\bin\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\bin\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\bin\Debug\EntityFramework.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\bin\Debug\EntityFramework.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\obj\Debug\IndividualAssignment.csprojAssemblyReference.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CoreCompileInputs.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CopyComplete
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\obj\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\obj\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._1.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.GenerateResource.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V3\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._2.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\obj\Debug\IndividualAssignment.csprojAssemblyReference.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CoreCompileInputs.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\obj\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\obj\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\bin\Debug\IndividualAssignment.exe.config
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\bin\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\bin\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\bin\Debug\EntityFramework.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\bin\Debug\EntityFramework.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CopyComplete
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._1.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.GenerateResource.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.prinmanualpinakaAssignmnetCourses.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.kkk.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.csprojAssemblyReference.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CoreCompileInputs.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\bin\Debug\IndividualAssignment.exe.config
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\bin\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\bin\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\bin\Debug\EntityFramework.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\bin\Debug\EntityFramework.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CopyComplete
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.afterhahing.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.GenerateResource.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.afterhashingtrainernstudent.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.after3.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.princonstructorsubmitno.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._4.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.afterseedaddstudent.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4 copy\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.afterseedstudentadd.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\bin\Debug\IndividualAssignment.exe.config
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\bin\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\bin\Debug\IndividualAssignment.pdb
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\bin\Debug\EntityFramework.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\bin\Debug\EntityFramework.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.csprojAssemblyReference.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.afterhahing.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.afterhashingtrainernstudent.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.after3.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.princonstructorsubmitno.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations._4.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.afterseedaddstudent.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.Migrations.afterseedstudentadd.resources
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.GenerateResource.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CoreCompileInputs.cache
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.csproj.CopyComplete
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.exe
+C:\Coding Bootcamp Athens\C#\Projects\IndividualAssignment - V4Final\IndividualAssignment\obj\Debug\IndividualAssignment.pdb
